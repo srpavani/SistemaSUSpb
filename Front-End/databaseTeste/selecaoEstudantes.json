@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "area": "Estágio Supervisionado",
+    "periodo": "2023.1",
+    "estudante": "Ana Silva Oliveira Costa"
+  },
+  {
+    "id": 2,
+    "area": "Atividades Práticas",
+    "periodo": "2022.2",
+    "estudante": "Bruno Santos Pereira"
+  },
+  {
+    "id": 3,
+    "area": "Visita Técnica",
+    "periodo": "2023.1",
+    "estudante": "Carla Oliveira Mendes"
+  },
+  {
+    "id": 4,
+    "area": "Residênicas-Rodízios",
+    "periodo": "2023.2",
+    "estudante": "Diego Costa Silva"
+  },
+  {
+    "id": 5,
+    "area": "Ativades de Extensão Universitária",
+    "periodo": "2022.1",
+    "estudante": "Eduarda Pereira Lima"
+  },
+  {
+    "id": 6,
+    "area": "Estágio Supervisionado",
+    "periodo": "2023.2",
+    "estudante": "Fernando Almeida Souza"
+  },
+  {
+    "id": 7,
+    "area": "Atividades Práticas",
+    "periodo": "2022.2",
+    "estudante": "Gabriela Rodrigues Araújo"
+  },
+  {
+    "id": 8,
+    "area": "Visita Técnica",
+    "periodo": "2023.1",
+    "estudante": "Henrique Martins Lopes"
+  },
+  {
+    "id": 9,
+    "area": "Residênicas-Rodízios",
+    "periodo": "2023.2",
+    "estudante": "Isabela Lima Costa"
+  },
+  {
+    "id": 10,
+    "area": "Ativades de Extensão Universitária",
+    "periodo": "2022.1",
+    "estudante": "João Fernandes Ribeiro"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "cargo": "Administrador Resus",
+    "value": "adm_resus"
+  },
+  {
+    "cargo": "Coordenador IE",
+    "value": "coord_ie"
+  },
+  {
+    "cargo": "Coordenador NEP",
+    "value": "coord_nep"
+  }
+]

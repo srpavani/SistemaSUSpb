@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "instituicaoEnsino": "Instituição de Ensino - 1",
+    "tipoIE": "Privada",
+    "estagiarios": 10
+  },
+  {
+    "id": 2,
+    "instituicaoEnsino": "Instituição de Ensino - 2",
+    "tipoIE": "Pública",
+    "estagiarios": 20
+  },
+  {
+    "id": 3,
+    "instituicaoEnsino": "Instituição de Ensino - 3",
+    "tipoIE": "Privada",
+    "estagiarios": 5
+  },
+  {
+    "id": 4,
+    "instituicaoEnsino": "Instituição de Ensino - 4",
+    "tipoIE": "Pública",
+    "estagiarios": 15
+  },
+  {
+    "id": 5,
+    "instituicaoEnsino": "Instituição de Ensino - 5",
+    "tipoIE": "Privada",
+    "estagiarios": 12
+  },
+  {
+    "id": 6,
+    "instituicaoEnsino": "Instituição de Ensino - 6",
+    "tipoIE": "Pública",
+    "estagiarios": 8
+  },
+  {
+    "id": 7,
+    "instituicaoEnsino": "Instituição de Ensino - 7",
+    "tipoIE": "Privada",
+    "estagiarios": 3
+  },
+  {
+    "id": 8,
+    "instituicaoEnsino": "Instituição de Ensino - 8",
+    "tipoIE": "Pública",
+    "estagiarios": 7
+  },
+  {
+    "id": 9,
+    "instituicaoEnsino": "Instituição de Ensino - 9",
+    "tipoIE": "Privada",
+    "estagiarios": 22
+  },
+  {
+    "id": 10,
+    "instituicaoEnsino": "Instituição de Ensino - 10",
+    "tipoIE": "Pública",
+    "estagiarios": 17
+  },
+  {
+    "id": 11,
+    "instituicaoEnsino": "Instituição de Ensino - 11",
+    "tipoIE": "Privada",
+    "estagiarios": 6
+  },
+  {
+    "id": 12,
+    "instituicaoEnsino": "Instituição de Ensino - 12",
+    "tipoIE": "Pública",
+    "estagiarios": 24
+  },
+  {
+    "id": 13,
+    "instituicaoEnsino": "Instituição de Ensino - 13",
+    "tipoIE": "Privada",
+    "estagiarios": 9
+  },
+  {
+    "id": 14,
+    "instituicaoEnsino": "Instituição de Ensino - 14",
+    "tipoIE": "Pública",
+    "estagiarios": 13
+  },
+  {
+    "id": 15,
+    "instituicaoEnsino": "Instituição de Ensino - 15",
+    "tipoIE": "Privada",
+    "estagiarios": 11
+  }
+]
